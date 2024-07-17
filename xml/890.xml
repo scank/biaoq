@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>890.jpg</filename>
+	<path>F:\顿某\表情\images\890.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>happy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>42</ymin>
+			<xmax>220</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

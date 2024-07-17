@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>361.jpg</filename>
+	<path>F:\顿某\表情\images\361.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sad</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>37</ymin>
+			<xmax>178</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

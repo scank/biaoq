@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>820.jpg</filename>
+	<path>F:\顿某\表情\images\820.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>224</width>
+		<height>224</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>44</ymin>
+			<xmax>185</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>
